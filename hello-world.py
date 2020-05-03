@@ -1,1 +1,2 @@
-print('Hello World')
+a = str('Привет, Мир')
+print(a)
