@@ -17,3 +17,5 @@ print(type(steps_yesterday))
 # напишите свой код здесь
 result = str(int(steps_yesterday) + int(steps_today))
 print('За два дня Геннадий сделал ' + result + ' шагов')
+
+
